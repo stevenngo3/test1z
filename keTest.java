@@ -6,6 +6,6 @@ import org.junit.*;
     // Test for our subtract function
     @Test
     public void subtraction() {
-        assertEquals(3, keTest.subtract(4,2)); // Test will fail initially
+        assertEquals(3, ke.subtract(4,2)); // Test will fail initially
     }
 }
